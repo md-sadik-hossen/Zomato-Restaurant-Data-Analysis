@@ -5,10 +5,10 @@
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
 2. Competitive Edge: Understand the competitive landscape, enabling you to differentiate and stand out.<br>
-3. Localized Decision Making:Tailor decisions based on specific neighborhood dynamics, preferences, and demands.<br>
+3. Localized Decision Making: Tailor decisions based on specific neighborhood dynamics, preferences, and demands.<br>
 4. Operational Efficiency: Optimize operations by addressing challenges related to staffing, supply chain, and licensing.<br>
 5. Market Opportunities: Identify untapped markets, diversification opportunities, and emerging culinary trends.<br>
-6. Customer Centric Approach: Enhance customer satisfaction by aligning menus and themes with local preferences.<br>
+6. Customer-Centric Approach: Enhance customer satisfaction by aligning menus and themes with local preferences.<br>
 7. Regulatory Compliance: Navigate regulatory hurdles effectively by understanding licensing requirements and challenges.<br>
 8. Continuous Improvement: Utilize customer reviews and ratings for continuous improvement and service enhancement.<br>
 9. Strategic Marketing: Develop targeted marketing strategies aligned with unique neighborhood characteristics.<br>
@@ -68,15 +68,16 @@ Desserts and delivery options, such as cafes, tend to be more budget-friendly, w
 ### Purchasing Power Analysis <br>
 
 ![Purchasing Power Analysis](https://github.com/md-sadik-hossen/Zomato-Restaurant-Data-Analysis/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
+
 Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.<br>
 
 
-### Top 4 Model Result After Hyperparameter Optimization <br>
+### Top 4 Model Results After Hyperparameter Optimization <br>
 
 ![Purchasing Power Analysis](https://github.com/md-sadik-hossen/Zomato-Restaurant-Data-Analysis/blob/main/images/Hypertuning_pred.JPG)
 
 
-### Summery and Recommendation:<br>
+### Summary and Recommendation:<br>
 
 1. **Prime Locations:** Choose bustling areas like Koramangala 7th Block for a thriving balance of affordability and diversity, attracting a range of customers.
 
